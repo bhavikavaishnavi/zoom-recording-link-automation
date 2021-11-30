@@ -1,0 +1,4 @@
+# Ignore Virtual Env
+zpvenv/
+
+__pycache__/
