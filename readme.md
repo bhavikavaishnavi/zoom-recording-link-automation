@@ -1,5 +1,5 @@
 <h1>Zoom FrontRow Pipeline</h1>
-
+An automation code to extract Zoom recording links from multiple Zoom accounts.
 <h2>Requirements</h2>
 <h3>Hardware</h3>
 
